@@ -1,0 +1,8 @@
+export const SET_TABLE = 'SET_TABLE';
+export const SET_SEARCH_INPUT = 'SET_SEARCH_INPUT';
+export const SET_SORT_FIELD = 'SET_SORT_FIELD';
+export const ADD_ROW = 'ADD_ROW';
+
+export const FETCH_TABLE_REQUEST = 'FETCH_TABLE_REQUEST';
+export const FETCH_TABLE_SUCCESS =  'FETCH_TABLE_SUCCESS';
+export const FETCH_TABLE_FAILURE =  'FETCH_TABLE_FAILURE';
